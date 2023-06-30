@@ -1,4 +1,4 @@
-# cli-demo
+# cli-demo记录我的Vue学习路程
 
 ## Project setup
 ```
