@@ -1,6 +1,7 @@
 <template>
   <div>
-    <h1>我是demo</h1>
+    <my-button></my-button>
+    <h1>我是demo01</h1>
   </div>
 </template>
 
